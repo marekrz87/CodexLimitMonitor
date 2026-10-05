@@ -1,0 +1,13 @@
+bin/
+obj/
+**/bin/
+**/obj/
+
+release/
+*.bak
+scheduler-probe.txt
+
+.vs/
+.idea/
+*.user
+*.suo
